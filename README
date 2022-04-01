@@ -1,0 +1,39 @@
+                                                                      UTFome
+ 
+Nome do programa: UTFome 
+
+Descrição do programa: Aplicativo destinado aos alunos da Universidade Tecnológica Federal do Paraná, cujo objetivo 
+é auxiliar os usuários a colocar seus produtos em um anúncio e que tal anúncio também possa ser mostrado aos usuários 
+que desejam comprar. Neste aplicativo também terá um esquema do mapa da universidade e a localização dos vendedo-
+res será mostrada neste mapa, através de um pin (📌).Para a divulgação será necessário que o aluno se cadas-
+tre na plataforma informando seus dados pessoais. Quando o aluno divulgar seus produtos ele terá que adicio-
+nar a descrição do que será vendido (fotos e valores, por exemplo), seu contato,  além da sua localização de
+onde poderá ser encontrado. 
+
+Na plataforma não será permitido a venda do produto, apenas a divulgação. Para os alunos que desejarem 
+informações sobre alunos que estejam vendendo seus produtos é preciso que realizem um login.
+
+Funcionalidades: Cadastrar vendedores, através de seus dados pessoais, mostrar a descrição de seus produtos em um card.
+Mostrar os vendedores ativos no momento, também como a localização dos mesmos. Registrar vendas,
+(irá armazenar os produtos que o vendedor oferece). Mostrar a avaliação dos vendedores, o preço do serviço ofere-
+cido (se possível). Terá um mapa da universidade, afim de facilitar a localização dos vendedores pelos usuários, 
+através do pin da localização no mapa. 
+
+
+desenvolvedores: 	
+Breno Farias da Silva - 2300516
+
+Felipe Archanjo da Cunha Mendes - 2252740
+
+Marcos Bezner Rampaso - 2149435
+
+Pamella Lissa Sato Tamura - 2254107
+
+Thaynara Ribeiro Falcão dos Santos - 2254140
+
+Reginaldo Gregório de Souza Neto - 2252813 
+
+Tecnologias: Github, React, JS, HTML, CSS/SCSS, MySQL, NodeJS.
+
+
+
